@@ -16,11 +16,17 @@ ________________________________________
 Author(s)
 
 Corresponding author's name: Graziella V. DiRenzo
+
 Affiliation: University of Maryland
+
 Address Line Department of Biology, College Park, MD 20744, USA.
+
 Email: gdirenzo@umd.edu
+
 Co-author's name: Christian Che-Castaldo
+
 Affiliation: University of Maryland
+
 Address Line 1: Department of Biology, College Park, MD 20744, USA.
 
 Co-author's name: Amanda Rugenski
