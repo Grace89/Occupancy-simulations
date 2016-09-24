@@ -1,10 +1,11 @@
 # Occupancy-simulations
-Code simulates and analyzes data for species that range in occupancy and detection probability
 
 Author(s). Year of publication. Title of your article. Journal. 
+
 DiRenzo, G. V., Che-Castaldo, C., Rugenski, A., Brenes, R., Whiles, M. R., Pringle, C. M., Kilham, S. S, and Lips, K. R. 2016. Disassembly of a tadpole community by a multi-host fungal pathogen with limited evidence of recovery. Ecological Applications.
 ________________________________________
 Data S1
+
 Descriptive title of the data and/or code. 
 Optimizing species detection and sampling schemes
 ________________________________________
@@ -13,6 +14,7 @@ File list (downloads)
 Description
 ________________________________________
 Author(s)
+
 Corresponding author's name: Graziella V. DiRenzo
 Affiliation: University of Maryland
 Address Line Department of Biology, College Park, MD 20744, USA.
@@ -41,9 +43,11 @@ Affiliation: University of Maryland
 Address Line 1: Department of Biology, College Park, MD 20744, USA.
 ________________________________________
 File list
+
 DataS1.R
 ________________________________________
 Description
+
 DataS1.R – Code used to simulate and analyze data to determine the optimal number of surveys and sites when surveying species rich communities. 
 First part- creates function to simulate the data.
 Second part- defines model in BUGS language
