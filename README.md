@@ -29,24 +29,49 @@ Affiliation: University of Maryland
 
 Address Line 1: Department of Biology, College Park, MD 20744, USA.
 
+
 Co-author's name: Amanda Rugenski
+
 Affiliation: Arizona State University
+
 Address Line 1: School of Life Sciences, Tempe, AZ, 85281, USA.
+
+
 Co-author's name: Roberto Brenes
+
 Affiliation: University of Tennessee
+
 Address Line 1: Department of Forestry, Wildlife and Fisheries, Knoxville, TN, 37996, USA.
+
+
 Co-author's name: Matt R. Whiles
+
 Affiliation: Southern Illinois University 
+
 Address Line 1: Department of Zoology and Center for Ecology, Carbondale, IL, 62901
+
+
 Co-author's name: Catherine M. Pringle
+
 Affiliation: University of Georgia
+
 Address Line 1: Odum School of Ecology, Athens, GA, 30602, USA.
+
+
 Co-author's name: Susan S. Kilham
+
 Affiliation: Drexel University
+
 Address Line 1: Department of Biodiversity, Earth and Environmental Science, Philadelphia, PA, 19104, USA.
+
+
 Co-author's name: Karen R. Lips
+
 Affiliation: University of Maryland
+
 Address Line 1: Department of Biology, College Park, MD 20744, USA.
+
+
 ________________________________________
 File list
 
@@ -55,10 +80,14 @@ ________________________________________
 Description
 
 DataS1.R – Code used to simulate and analyze data to determine the optimal number of surveys and sites when surveying species rich communities. 
-First part- creates function to simulate the data.
-Second part- defines model in BUGS language
-Third part- define parameters to monitor and the values to run the functions
-Fourth part- create empty matrices to store recovered parameters
-Fifth part- loop used to run the set of parameters and store recovered parameters
 
+First part- creates function to simulate the data.
+
+Second part- defines model in BUGS language
+
+Third part- define parameters to monitor and the values to run the functions
+
+Fourth part- create empty matrices to store recovered parameters
+
+Fifth part- loop used to run the set of parameters and store recovered parameters
 
